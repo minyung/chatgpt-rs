@@ -1,4 +1,5 @@
 # chatgpt-rs
+[![CI](https://github.com/minyung/chatgpt-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/minyung/chatgpt-rs/actions/workflows/ci.yml)
 
 ## Usage
 ```toml
